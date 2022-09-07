@@ -1,1 +1,1 @@
-<img src="tellme.gif>
+<img src="tellme.gif">
