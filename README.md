@@ -17,6 +17,7 @@ My name is Enzo Athayde, I'm a technology student and passionate about Web Devel
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>
 </div>
 <br>
+
 ### Check another jobs posted in...
 
 Linkedin: `https://www.linkedin.com/in/3at2001/`
