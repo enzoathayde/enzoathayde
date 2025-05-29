@@ -1,8 +1,8 @@
 # 👋 Hi, explorer
 
-My name is Enzo Athayde, I'm a technology student and passionate about Web Development, making people's lives easier.
+Passionate about Web Development, making people's lives easier.
 
-### I know the basics of
+### I work with those technologies 
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
